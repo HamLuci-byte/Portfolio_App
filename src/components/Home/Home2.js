@@ -19,37 +19,35 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
+              As a Cloud DevOps Engineer, I specialize in designing, implementing,
+              and maintaining cloud-based systems and applications in a DevOps environment.
+              My expertise includes collaborating with teams to streamline the software development process, utilizing
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
-              </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
+                <b className="purple">  automation </b>
+              </i> 
+              and continuous integration/continuous delivery
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
-                </b>
+                <b className="purple">  (CI/CD) pipelines </b>
               </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              for rapid and reliable software releases. With proficiency in cloud platforms like 
               <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
+                <b className="purple">  AWS </b>
               </i>
-              &nbsp; like
+              as well as programming and scripting languages like 
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple">  Python, Bash, JavaScript. </b>
               </i>
+              I am able to create efficient and scalable solutions. Additionally,
+              my experience with containerization technologies like
+              <i>
+                <b className="purple">  Docker and Kubernetes, </b>
+              </i> 
+              and monitoring tools like
+              <i>
+                <b className="purple">  CloudWatch and Grafana, </b>
+              </i> 
+              allows me to ensure the performance,
+              security, scalability, and reliability of cloud-based applications and systems.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -67,7 +65,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/HamLuci-byte"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -75,19 +73,10 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
+              
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/hamza-naeem-0ba491186"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -95,16 +84,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
-                </a>
-              </li>
+              
             </ul>
           </Col>
         </Row>
